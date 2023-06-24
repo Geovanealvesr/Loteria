@@ -1,4 +1,4 @@
-# Projeto de Site de Aposta com Números - README
+# Projeto de Site de Aposta com Números 
 
 Este é o projeto básico de um site de aposta com números tipo loteria. O objetivo principal é utilizar o Bootstrap como framework de front-end e Java como linguagem de back-end.
 
